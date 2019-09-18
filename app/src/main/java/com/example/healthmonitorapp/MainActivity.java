@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseDatabase mFirebaseDatabase;
 
-    private FirebaseAuth.AuthStateListener mAuthListner;
+    
     private DatabaseReference myref;
     private String uid;
 // ...
